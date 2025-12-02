@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Termux-Studio
+# Termux-Studio
 ### The Ultimate Android Development Environment for Termux
 
 ![Platform](https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge&logo=android)
@@ -33,8 +33,28 @@
 
 Copy and paste the following commands into your Termux terminal:
 
-### 1. Update & Clone
+### 1.Installation
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
+```
+### 2.Clone 
+```bash
 git clone https://github.com/MSI-Sirajul/Termux-Studio.git
+```
+### 3.Path
+```bash
+cd $HOME/Termux-Studio/
+```
+### Termux-Run
+```bash
+./studio_setup
+```
+### LINUX
+```bash
+./studio_setup2
+```
+
+**Thanks for using**
+
+
