@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Overview
-**Termux-Studio** is an advanced automation script designed to transform your Termux terminal into a professional **Android App Development Station**. It silently installs all necessary tools, configures the environment (JDK 17, Gradle), and prepares your system for building APKs directly on your Android device.
+**Termux-Studio** is an advanced automation script designed to transform your Termux terminal into a professional **Android App Development Station**.  
 
 ## ✨ Features
 *   **Zero-Distraction UI:** Clean, colorful, and box-styled terminal interface.
