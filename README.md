@@ -12,26 +12,28 @@
 
 ---
 
-## 🚀 Overview
-**Termux-Studio** is an advanced automation script designed to transform your Termux terminal into a professional **Android App Development Station**.  
+## Overview  
+<div align="justify">
 
-## ✨ Features
-*   **Zero-Distraction UI:** Clean, colorful, and box-styled terminal interface.
+
+**Termux-Studio** This script designed to install all required packages and make your Termux into a Android App Development Station.  
+
+</div>  
+
+## Features
 *   **Full SDK Support:** Automatically installs `openjdk-17`, `gradle`, `aapt`, `apksigner`, `dx`, and more.
-*   **Silent Installation:** No more junk logs. Installs packages in the background with progress indicators.
 *   **Environment Config:** Auto-configures `JAVA_HOME` and system paths for Gradle stability.
-*   **Latest Tools:** Ensures you are using the latest repositories and packages.
 
-## 📦 Included Packages
+## Included Packages
 | Category | Tools |
 | :--- | :--- |
 | **Core** | `openjdk-17`, `gradle`, `git`, `python` |
 | **Build Tools** | `aapt`, `apksigner`, `dx`, `ecj` |
 | **Utilities** | `vim`, `nano`, `zip`, `unzip`, `termux-api` |
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
-Copy and paste the following commands into your Termux terminal:
+Copy and paste the following commands into your Termux or Linux:
 
 ### 1.Installation
 ```bash
@@ -54,7 +56,8 @@ cd $HOME/Termux-Studio/
 ```bash
 ./studio_setup2
 ```
+<div align="center">
 
-**Thanks for using**
+**Thanks for using**  
 
-
+</div>
